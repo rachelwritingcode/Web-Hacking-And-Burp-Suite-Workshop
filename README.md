@@ -1,3 +1,30 @@
+# Cyber Aegis Juice Shop 🧃
+
+
+### Who is this for? 😊 
+- Anyone who knows the basics of website architecture and is interested in web application hacking. 
+- This workshop guides beginners on how to use this tool to test their own applications and gain tool for CTFs and bug bounty adventures.
+
+### What was customized 
+- Using the companion guide [Pwning OWASP Juice Shop](https://leanpub.com/juice-shop) I customized a few files to reflect the flag format used at C[yber Aegis Canada](https://cyber-aegis.ca/).  
+- I created a custom docker image of the original OWASP Juice Shop and deployed it in Amazon Web Services using EC2. 
+- I have left the original README for the OWASP Juice Shop attached in case you would like to learn how to customize your own version of it.
+
+
+### What is the objective of this workshop? 
+- Teach learners about the [OWASP Top Ten](https://owasp.org/www-project-top-ten/) and learn how to use Burp Suite.
+- Burp Suite is one of the popular tools using for bug bounty as well as penetration testing.
+
+
+### Why are we doing this?
+- I believe writing clean code is just as important as writing secure code. The OWASP juice shop was intentionally made to teach people about common vulnerabilities in web applications. 
+
+
+### Where can I find the slides? 
+- You can get a copy of the slides from this workshop [here!](https://docs.google.com/presentation/d/1SBCKRcQGZVdjvF8puu5WnH3cAULQwXIaBr0HiW_qaXI/edit?usp=sharing)
+
+---
+
 # ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
