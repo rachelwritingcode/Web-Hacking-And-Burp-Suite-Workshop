@@ -6,7 +6,7 @@
 - This workshop guides beginners on how to use this tool to test their own applications and gain tool for CTFs and bug bounty adventures.
 
 ### What was customized 
-- Using the companion guide [Pwning OWASP Juice Shop](https://leanpub.com/juice-shop) I customized a few files to reflect the flag format used at C[yber Aegis Canada](https://cyber-aegis.ca/).  
+- Using the companion guide [Pwning OWASP Juice Shop](https://leanpub.com/juice-shop) I customized a few files to reflect the flag format used at [Cyber Aegis Canada](https://cyber-aegis.ca/).  
 - I created a custom docker image of the original OWASP Juice Shop and deployed it in Amazon Web Services using EC2. 
 - I have left the original README for the OWASP Juice Shop attached in case you would like to learn how to customize your own version of it.
 
